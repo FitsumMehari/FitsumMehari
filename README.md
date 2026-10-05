@@ -18,6 +18,14 @@ TypeScript · Angular · React · Next.js · Node.js · NestJS · PostgreSQL · 
 
 ---
 
+## 👨‍💻 Professional Activity
+
+I'm currently working as a **Full-Stack Software Engineer**, shipping production software with **Angular, Next.JS, NestJS, Node.js, PostgreSQL, Docker, and GitLab CI/CD**.
+
+> Most of my day-to-day engineering activity — commits, merge requests, reviews, and deployments — happens in **private company GitLab repositories**, so it isn't reflected in the GitHub contribution graph below.
+
+My GitHub is focused on my **personal engineering projects, experiments, developer tools, and open-source work**.
+
 ## About
 
 I'm a full-stack software engineer focused on building reliable, production-oriented software across the entire stack.
